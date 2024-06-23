@@ -3,7 +3,7 @@
 <h3 align="center">I an AI/ML student and developer</h3>
 <img align="right" alt="Coding Gif" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
 
-- 🌱 I’m currently learning on **Java (Data Structures and Algorithms), Next.JS, TypeScript**
+- 🌱 I’m currently learning on **PyTorch,C++,Java**
 
 - 💬 Ask me about **DSA, MERN**
 
