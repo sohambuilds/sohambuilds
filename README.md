@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning on **PyTorch,C++,Java**
 
-- 💬 Ask me about **DSA, MERN**
+- 💬 Ask me about **AI,DSA**
 
 - Email Address: **sohamroy.dev@gmail.com**
 
