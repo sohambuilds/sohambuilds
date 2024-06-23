@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Soham Roy</h1>
 <h3 align="center">I an AI/ML student and developer</h3>
-<img align="right" alt="Coding Gif" width="400" src="https://i.gifer.com/OyGx.gif">
+<img align="right" alt="Coding Gif" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*nB2JiBJhQtkAPaoO.gif">
 
 - 🌱 I’m currently learning on **PyTorch,C++,Java**
 
