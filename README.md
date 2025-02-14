@@ -34,7 +34,7 @@ I'm Soham Roy – an AI/ML student and developer with a relentless pursuit of in
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
   
-    </tr>
+    
   </table>
 </div>
 
