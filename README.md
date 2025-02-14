@@ -15,16 +15,16 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Soham+Roy!;" />
 
 <h2>📖 | About me</h2> 
-I'm Soham Roy – an AI/ML student and developer with a relentless pursuit of innovation. Focused on mastering PyTorch, C++, and Java, I tackle challenging problems in AI, DSA, and system design with precision and determination.
+I'm Soham Roy – an AI/ML student, ML researcher, and developer with published IEEE research. I’m actively working on diffusion models and vision-language models. Focused on mastering PyTorch, C++, and Java, I tackle challenging problems in AI, DSA, and system design with precision and determination.
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg"" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sohambuilds/sohambuilds/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
 <h2>📚 | Education</h2>
-<p>I am actively advancing my academic journey in computer science with a dedicated focus on artificial intelligence and machine learning.</p>
+<p>I am pursuing my B.Tech in Computer Science at KIIT University, where I continually refine my skills and contribute to innovative research projects.</p>
 <br>
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
@@ -33,19 +33,18 @@ I'm Soham Roy – an AI/ML student and developer with a relentless pursuit of in
         <strong>KIIT University</strong><br><strong>B.Tech</strong> Computer Science<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
-  
-    
+    </tr>
   </table>
 </div>
 
-<h2>🔥| My contribution streak</h2>
+<h2>🔥 | My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohambuilds#version3"/>
   </a>
 </p>
 
-<h2>⭐ | Github Stats </h2>
+<h2>⭐ | Github Stats</h2>
 <div align="center">
   <a href="https://github.com/sohambuilds">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohambuilds&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
@@ -53,11 +52,11 @@ I'm Soham Roy – an AI/ML student and developer with a relentless pursuit of in
   </a>
 </div>
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2>🛠️ | Languages, Frameworks, and Tools</h2>
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=c,python,java,nodejs"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=c,python,java,nodejs,torch"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -78,4 +77,6 @@ I'm Soham Roy – an AI/ML student and developer with a relentless pursuit of in
 </table>
 <br>
 
+------
+**Credits :** [Original Template by codediaz](https://github.com/codediaz)
 
