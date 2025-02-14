@@ -19,7 +19,7 @@ I'm Soham Roy – an AI/ML student and developer with a relentless pursuit of in
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sohambuilds/sohambuilds/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg"" />
   <br/>
 </div>
 
@@ -30,17 +30,10 @@ I'm Soham Roy – an AI/ML student and developer with a relentless pursuit of in
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <strong>ABC Uni</strong><br><strong>BSc.</strong> Computer Science<br>
+        <strong>KIIT University</strong><br><strong>B.Tech</strong> Computer Science<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
-      <td align="center">
-        <strong>XYZ Inst</strong><br><strong>MSc.</strong> Artificial Intelligence<br>
-        <img src="https://progress-bar.dev/40/" width="100" alt="progress-bar"/>
-      </td>
-      <td align="center">
-        <strong>DEF Uni</strong><br><strong>PhD.</strong> Machine Learning<br>
-        <img src="https://progress-bar.dev/0/" width="105" alt="progress-bar"/>
-      </td>
+  
     </tr>
   </table>
 </div>
