@@ -19,7 +19,7 @@ I'm Soham Roy – an AI/ML student, ML researcher, and developer with published 
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sohambuilds/sohambuilds/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
